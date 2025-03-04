@@ -38,6 +38,8 @@ C:\Users\User\Desktop\Django Garrison\git\demo
 
 9. 將暫存區資料儲存到倉庫
 -git commit -m '第一次提交'
+-修改上一次的commit
+	- git commit --amend
 
 10. 提交後產生兩個object 
 	-commit(sha-1)
@@ -142,6 +144,8 @@ C:\Users\User\Desktop\Django Garrison\git\demo
 		-git push origin -u master
 	-第二次直接push
 		-git push =>(master=> master)
+	-強制更新
+		-git push -f
 
 28.演練
 -產生分支
