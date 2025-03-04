@@ -175,7 +175,7 @@ C:\Users\User\Desktop\Django Garrison\git\demo
 
 30. 跟遠端相關指令
 	-複製專案
-		-git clone https://github.com/GarrisonHuang/git-memo1
+		-git clone 
 	-下載方式
 		-進入網址直接下載(不包含.git)
 
@@ -183,7 +183,19 @@ C:\Users\User\Desktop\Django Garrison\git\demo
 
 
 31. 程式演練 (git pull)
+	-公司電腦
+		-專案新增command.txt
+		-git add/git commit
+		-git push
 
+	-家裡電腦
+		-初始專案
+			-git clone專案路徑
+		-已存在專案
+			-git pull
+
+31. 跟遠端相關指令
+				
 
 
 29.git pull
@@ -218,4 +230,3 @@ git checkout dev
 
 
 
-	
